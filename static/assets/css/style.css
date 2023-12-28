@@ -81,7 +81,7 @@ nav.main-nav a {
 nav.main-nav a.cta {
 	background: #fff;
 	color: #ee4792;
-	padding: 6px 14px;
+	padding: 6px 14px 4px;
 	border: 2px solid #fcdae9;
 	border-bottom: none;
 	border-radius: 20px;
